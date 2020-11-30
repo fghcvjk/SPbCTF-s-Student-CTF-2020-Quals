@@ -1,0 +1,8 @@
+Buy a fresh flag in our marketplace: middleout.student2020tasks.ctf.su/
+
+We've prepared a discount coupon for you ($10):
+SVM1TUk2eGdlMll6bDJTbQOJdRaq4RPyn3SxmGSmJsCBGIfzVkdhoX8qEzdhYmRIxMXzuRiAxobPX/nuUhrguw==. Secret code is 2503.
+
+Leaked source files
+
+Added at 17:55: the coupon verification doesn't use PKCS7 padding, so it's not vulnerable to padding oracle! Right? :o
